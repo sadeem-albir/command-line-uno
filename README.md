@@ -5,7 +5,7 @@ Play uno from the command-line!
 Important Note:
 
 This project is far from complete, and not really playable as of now, because it's still in its development stages.
-If you have a decent working knowledge of C/C++ developer and you have basic familiarity with pointer and data
+If you have a decent working knowledge of C/C++ and you have basic familiarity with pointer and data
 manipulation, and are comfortable with C's complicated declarations (such as the difference between the declaration
 that declares an array of pointers to pointers, versus a declaration that declares an array of arrays of pointers),
 then you'll likely find fun in configuring the source files to make the program do what you want. As we're speaking,
