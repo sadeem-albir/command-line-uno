@@ -9,7 +9,7 @@ typedef struct User {
 	int cardp;
 } User;
 
-/* All the uno.c card manipulation functions that are to be used in uno.c */
+/* All the uno.c card manipulation functions that are to be used in main.c */
 void collect_cstack(char *stack[], char *s, int cn);
 void collect_tstack(char *stack[], char *s, int cn);
 void collect_wstack(char *stack[], char *s1, char *s2, int cn);
