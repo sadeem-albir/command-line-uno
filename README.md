@@ -15,7 +15,7 @@ ready to be executed yet as I am making a huge data structure migration from too
 data structures of the deck stack, table stack, and user stacks to have a sweet-spot of involvement between arrays and
 structs (makes the development process way more efficient and easier to deal with). As we're speaking, this project currently
 only does administrative stuff that allow you to use single-character commands to manipulate the entire uno deck, the game
-table, and the users in the game. It is not ready to be played yet, and the only reason I uploaded this project early was because
+table, and the users in the game for testing purposes. It is not ready to be played yet, and the only reason I uploaded this project early was because
 I am too lazy to find another back-up method while switching my Linux distribution. If you have anything you would like to
 personally contribute, do not hesitate to open a pull-request so I can see your contributing code and how it might help make this
 small project better! Otherwise, feel free to modify it on your own machine locally with the only limit being you. Enchanté! (hopefully, I didn't butcher that)
