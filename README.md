@@ -13,7 +13,7 @@ to note that if you hastily proceed to compiling and running the program, you'll
 because, as mentioned, the game is not yet ready to be played; not only that, but the program itself is likely not even
 ready to be executed yet as I am making a huge data structure migration from too much array involvement to balancing the
 data structures of the deck stack, table stack, and user stacks to have a sweet-spot of involvement between arrays and
-structs (makes the development process way more efficient). As we're speaking, this project currently only does administrative
+structs (makes the development process way more efficient and easier to deal with). As we're speaking, this project currently only does administrative
 stuff that allow you to use single-character options to manipulate the entire uno deck, the game table, and the users in the
 game. It is not ready to be played yet, and the only reason I uploaded this project early was because I am too lazy to find
 another back-up method while switching my Linux distribution. If you have anything you would like to personally contribute,
